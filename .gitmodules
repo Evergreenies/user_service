@@ -1,0 +1,3 @@
+[submodule "app/twelve_factor_app_framework"]
+	path = app/twelve_factor_app_framework
+	url = git@github.com:Evergreenies/twelve_factor_app_framework.git

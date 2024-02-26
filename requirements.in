@@ -1,0 +1,14 @@
+flask
+python-dotenv
+virtualenv
+pip-tools
+flake8
+black
+flask-sqlalchemy
+psycopg2
+alembic
+marshmallow
+pytest
+argon2
+argon2-cffi
+pyjwt==2.8.0
